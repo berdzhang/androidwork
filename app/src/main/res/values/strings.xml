@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">work</string>
+    <string name="entry_name">enter name</string>
+    <string name="submit">submit</string>
+    <string name="next">next</string>
+    <string name="add_one">add one</string>
+</resources>
